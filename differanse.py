@@ -1,0 +1,5 @@
+x=input("Oppgi verdien til x: \n>")
+y=input("Oppgi verdien til y: \n>")
+x=int(x)
+y=int(y)
+print("Differansen mellom x og y er",abs(x-y))
